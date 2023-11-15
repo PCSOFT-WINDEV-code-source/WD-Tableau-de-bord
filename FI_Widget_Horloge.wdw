@@ -1,0 +1,294 @@
+#To edit and compare internal_properties, use WINDEV integrated tools.
+#Internal properties refer to the properties of controls in windows, reports, etc.
+info :
+ name : FI_Widget_Horloge
+ major_version : 28
+ minor_version : 0
+ type : 8
+ description : ""
+ subtype : 0
+window :
+ name : FI_Widget_Horloge
+ identifier : 0x228f61153bdfec18
+ internal_properties : CAAAAAgAAAAeh8uSFBKbgab/+4JZEhtV29/46iejlhznVHiXqumDv3aYMIcP0z0bgmDG1htctgC4bwtt0KN36cSxHfFXielelta7/qw+0pyh6IRjtYrAbMaEqzaNR+wXUBhIcxmuAbHeXt7qSjF8HpDw5jpQ2iM6GeQPfymp9LfFh0llvXHMLy8dn0q+t/sMIaB7CZQYe7apqq3AqRUcCd1o/tQDLnumEhDlojh3hiF3tmOui8ax91mqwXxFdqQjVlYy953bBoZcDXA8HKLaTGNvph+DTLwKMTT9oqDEv9H/7w/g3PGksTvUD3qNVFxndTiOTQ5Eu1/LZKbfGzRsc+jweRcBiTPdCSTLoraho6thQ2oPCDfKvi+Ext7Az47UviQW799f+jlud7QPytm8k0Z/SygXdc9Wmppev2ZdgkY+7c7bNBzyKzaU/SXMJJ+Mc6GvuPRBWQmQHlDotqyEdKc3Rg/Jz0it45tqctfbhL/CFcT+MaBf8xIQvdQJF9EYCYUXQR32baFsjNHBItaBSvf36jB3T9YJ7+UZA1hy1O8YQ94LFEUjAF1ZRAC3Yb43VjcFcuKalqUCHjfDBX+xHF0KsG/w1ne25E/mnTJxpgpLhlK7Bxdx4rvSh1P6FeE+idkyCnV12uTwmFzFKRGOdqzJbqzjE2k=
+ properties :
+  width : 120
+  height : 120
+ controls :
+  -
+    name : FI_Widget_Horloge
+    identifier : 0x228f61153be0ec18
+    internal_properties : CAAAAAgAAABx+PpK2N/Hch6aI4+VXzBmLgg7ebyOkhuS1v8lLqL23x/FvyruG4gi+8YkGdRbrDZ+8Uj4dJWbH58B14mFNYfqse0SrnoMXjhaVZm1mZf8vnyfwq8S9JmUeiyvi2kf/vERZJgw2opXsG55GJSgaXeuPf3mGSMvNr5pmqztrt5C5QPs/+xiD+Duyqj82dJ/6m77y2x8xdatiyPZNqaRmLR700JovvX0h8I46Ivnj3GZ3bTW6R0BjyK/w3EptO4zb/F4Cb2mLrXRw2VQVbdadtEB5jQEG0r5nXyz5U09WnKoZVgnfofd1qJhGHwbFk+yZp0Uat6Ix6z/IEO7UofY1kiEgKUvVzloGkcY4e3fgN2aQroBTEZhL7kvfq09gSzzqPddJ9WhuBe9CKfn/ONg/2LME9Rj64UY3vXVsGNKaYxHmP2Dzg/KKJO4BjD8R8yoTZam6bkxaq6+U4LZryAU58oNgQxJV6D/Njz0l/jTaqc5qBQwBCUtuyQr0Q==
+    properties :
+     width : 120
+     height : 120
+    controls :
+     -
+       name : IMG_Dessin
+       identifier : 0x228f611a3bebffd7
+       internal_properties : CAAAAAgAAADvOXgtAgLoZnY+i3b7PhgqBqfAFsXNNxrV1g7gqH5exQJurbpnGySl4xyEqpzT0QCpNrZcUG/qgKN2fs9pgbVcMRmh8XV4pp3oBNHyW3J1s2Ey0vdujOpUMY+NrDePvRP0ObdIeV8nh1XLe0fZAZJE35yom6aB0uk8M9unyNct2HFhFcOrrTBonE8MCL2at1WIlnAGTUNr3Wv26n37qCOTa4J/2HqhpDFEWUz2QtDp4IoZ0UPUo12loY0v+dr0M3dSxfqZ9mQPHINgokwthOu2d7K22TdFmWKAZhJMljs61U3ZU+PnXJM+EGPCjwL6glYrRAVKxv2sGBUpZyDExHCapA8WmR6oOIkLtVmCsV04CSaVdCgtnHimAIZ4CcErKkWE67E92Sj+7P44AsKEkXBf1L942J8msaJhoA13MR6Dr7C8+S4LaidEUUc4VORc8LfFDLdClGCzh4GOOana478oclTdmmMAfclkNHMQHdnj+Cq9Hzor4jtDI4XLxBbOz2FK7zFVzkOcDOtRGE9/FVCqImg8hITJwj57wjCDVXoUej6uGbB0jAIgq6T3uAOZDcCrrqlD+GCxs3Au70EVa9gsuSfhfV3fZtkH9cc5i9vmlmFM+cBRSvEdgIbPoF/Z0Z8Yd0lrt9jYapteTuPxvavzKk+FEZHM6wu2kuL5b0Javuv6rQBMyHK00kzlNHa7Nzt2+hroXYmTcDim6t631QBPYPo7Gxv6zF4lLmcnxEaxOAy9TumE7bGvq9gQ9c0kXhgi/zlszBofmFEK0gxo4mocgo9q7fvKcHCGW5MUog9h9SoTzVOlbxo0Tk2gveXC4EXmwvhLjMI8PlBRfGbnwS1+hHw4bIjfxcP17wQEFFUeC18FbmreNoFo7rSt2r5om95qRuCT
+       properties :
+        x : 20
+        y : 22
+        width : 80
+        height : 80
+       type : 8
+       code_elements :
+        type_code : 8
+        p_codes :
+         -
+           type : 18
+           enabled : false
+     -
+       name : LIB_Ville
+       identifier : 0x228f6e81563b5a08
+       internal_properties : CAAAAAgAAACqh/8cHl7ABgRTRMzoaWpaMMirdYP+F7rr5Gw+2BwRe+TYppe5hRefpfv/nG2y0cHeTxXI73u3TmuAHd8Iu+PACGlc8VI77povNRgJbovOYaRmL0HZwdWnzeoK0zIKv3xl2XUQ5i7AnBRguggLf6nkzAlgc8NzoW+kM8mwbdGo16AZB7rUBaz6UNeNuAMahrbVu6HFwM3xNco1nAbqlq21kbOCusB4MFZFi31utyZrJHd+m56DHYfLqoo+66m3YG5Kn9YixR5H7u5qQdPFMo8nNrDgEiFXh39YUIXO8J3JyDqvcghjxPCqprlhHjkoVN0tbK30bYxwMr+WSyg+yKqAZbOysNykRvvNJL5AHGB5u2YHJR9GOhxtNpx1hGuIHfNsWVdD2TKT6ca3Aza/daZZOslGK4dBhxvowtSSVNAo+id2ShF767VVmtOTHOk7cY+SaYNwTaNfO7L3QZvVseZPB/7T7SE8sLmM1GgJxhjvJSKDaZboxt9vzwqdVGQ2fNS/vFYoGpZMV4F73ZxxYxfn8nqPktaw0O5W1bfaepjnsG0Cp1A=
+       properties :
+        width : 120
+        height : 20
+       type : 3
+       code_elements :
+        type_code : 2
+        p_codes :
+         -
+           code : |1-
+            
+           type : 14
+     -
+       name : BTN_Aide
+       identifier : 0x228f7aa266d20803
+       internal_properties : CAAAAAgAAAAgB4VuCoA03xTGIQVQVrNwg8X424t70f9//J+UKesNPYOGLtUjx9uPL5r9liqoSE6+JnfZxVOEOT+gWMfc0uLHyxkNMNlOcJ+vlfnHmU+bNUYicoNBfzIi7euZheqXM7LsIiWHDWX8n6/VOHD/B6Ms4IcO3/TLpQdputuNxMwmoJVyx5Wq5PoSUfN2GJZcAmrJGXbgrS9LChpmHL9x5jYHRJDRXo7mnhZmdIN/fSInL6cjS7/9jwpY3aQ+pmEhbJMg7DgmmQ4MKPw5izBN1vtooZvMZhiyXT/uWCqHg8Htrh4eFPylarHCa3xcckKihy9fLLXu4TugfsgNbJPZ12CeB9AMJckFZcsbgQkdXAQ6tY/eoNRdOgJUTo/BKmAOCJZFv7Oym7dx5cogg0YbFyuiFZiBJ4NcTibXm/yzMohsd7aDnDbAg04AWc5Zf3eT1kN+lDYjzc+08G9OvEPHn91uYwFP9rVSoCYv3re+EPTtOp4v/06O/u3cWfvr7WL7NJ4SplBmVHqhkixIzwTvkSF/12B++LRRLNC6VJZzO2malt0kbtsv0PDrVmG7bdvrNOr36cmjkQxuQoq6+j28e2KIR6wDD15/TkECkXJyXxNHGYRj2y3RSMtCw6svIYjCHvR5lQzaFqcwdXIvEAef0dWDBfW/39/+DbhXFidnHZC02WKwTQfQa4XekM+j8s9H3o5gmeBaNactJaYrIJNw75p2lJAqgMLcQ42yq8GjhI7jgEO9HkAOaQvfKb57sxDPV2GUcigCatxafnkfytYvWLiPFru8WhLJYhru2sefcn82ulrlqClfevLB5oTOlNGO+ebcSS8PXcJ0QD26FmAdsZs+sNlSa5ub81ddsmqh2cHBv+yjXNC0Cji+NTegW6EamK77tJ/riFGiEhpYxSPGGfyyje/xupHZIhkxbDNkmww=
+       properties :
+        x : 96
+        y : 96
+        width : 24
+        height : 24
+       type : 4
+       code_elements :
+        type_code : 4
+        p_codes :
+         -
+           internal_properties : CAAAAAgAAACQX0w6p30+WEP+cy5S96z/28AB/RSFBC7ZgzejVU+2T3foPDnNDReP7rqbeTXiL5RXAO8/Iw21tL+QIq2f4MM7KBN6p2peM9DFqULgxQBpHf5FVH21HaXrpz0vfnwvbiES2YsfJk26Q4BpgQ==
+           code : |1+
+            // Astuces
+            Info("Il est possible d'empêcher le redimensionnement de certains widgets.", "Il suffit pour cela de définir la largeur et hauteur max comme étant les dimensions ""initiales"".")
+           type : 18
+         -
+           type : 161
+           enabled : false
+     -
+       name : LIB_NonRedimensionnable
+       identifier : 0x228f7ace670ab35e
+       internal_properties : CAAAAAgAAADDenmkkJpKtJlKpzwgsg/MxFLXuZ2En5eVBUzxv3yw1tHEFefOhPnWW3fQdPv/o7hr8vqPWvu+zHIlj0yvrJYx+Zfu9++eDGzM3w4up3QJvPumQQjYIoYCwb6yvNwCCJyHsZQ4MkPz1PF8M+lLnngPB7qOruyMvE6cUsD7UZN4hMK1JgZOfe9HwLZXL66IOS2UMa23BfGlufyk9wuAtmBylqKA6Q5+IEmg7Si3x9myoQDPXd6iMT6Nro0atJ71zTVHIgyQPa9FnZkSyuOXAmFwQ9KxTnRoPfDlKgQ5Ken44/BVZj/uiA9nhPtr+/Fx4Cpu17tFd19lmur9a/Bpbfe4VRG3X7XWdmr11QN33/StCsf1VClno+Tlxfd/rDAPckSCwX2EakhwmUyPk2smJgO0nWg2ZQ4a9rpGmXtsDNUQNwonEtTPsQoJqBOTAROyuYTcwllFYFV97AaBZ+GQ/B/1k45ynYEquKJgm1Xn58lzomBtZVe8u9sDqiAABDolP0s0RdhJp7TzRReSlWIRJcxP
+       properties :
+        y : 102
+        width : 94
+        height : 13
+       type : 3
+       code_elements :
+        type_code : 2
+        p_codes : []
+    type : 32
+    code_elements :
+     type_code : 70
+     p_codes :
+      -
+        code : |1-
+         PROCEDURE MaFenêtre(LOCAL gsVille est une chaine)
+         
+         gtaListeVillesGMT est un tableau associatif de chaine
+         gnTimer est un entier systeme = DonneIdentifiant()
+         
+         // Enregistre des villes
+         GMTAdd("Londres", "+0000")
+         GMTAdd("Paris", "+0100")
+         GMTAdd("Tokyo", "+0900")
+         GMTAdd("Sydney", "+1000")
+         GMTAdd("New-York", "-0500")
+      -
+        code : |1+
+         // Affiche la ville
+         LIB_Ville = gsVille
+         // Affiche l'heure en continu
+         Afficheheure()
+         timer(AfficheHeure, 100, gnTimer)
+        type : 14
+      -
+        code : |1-
+         
+         // Stoppe le timer
+         fintimer(gntimer)
+         // Reprend le timer
+         Timer(AfficheHeure, 100, gnTimer)
+        type : 198
+ menu :
+  name : _Menu
+  identifier : 0x228f60ed3aa14f7c
+  internal_properties : CAAAAAgAAAD7S+2GOLjEeheq9Y6YZGIRPpLnwB8KUS2je4S4X5oxSGrv51WBBaVxxbk/BTEdUwW0fnnvlhQNIBAuQTAO0S9+S8FMTvDhqkS1JydqFJBfHlbZSFzBkZAjjJ5aIH/cuMnF4Pme57TAyYvjnlkzTJmN5UX9hu+BEl3AsIsso5gsz3oX/KHp1ai/xWZCb54MlUFXdWmT2EOpULKqea/LH9EOlTkaiWsV2aM2/FfXQjTSY3NhAR6zEzKHYKVJwiZULchG0D4LNvRbPifZJPDMmlF6ptz+Rg0QN6SXG5jU7HifIzmkonwDFnOJQw==
+  options : []
+ languages :
+  - fr-FR
+ popup_menus : []
+ message_bar : {}
+ actionbar : {}
+ code_elements :
+  type_code : 71
+  p_codes : []
+  procedures :
+   -
+     name : AfficheHeure
+     procedure_id : 1337395405151445815
+     type_code : 14
+     code : |1+
+      // Résumé : Affiche l'heure
+      // Syntaxe :
+      //AfficheHeure ()
+      //
+      // Paramètres :
+      //	Aucun
+      // Valeur de retour :
+      // 	Aucune
+      //
+      PROCEDURE AfficheHeure()
+      
+      sDecalageGMT est une chaîne
+      hHeureActuelle est une heure
+      nHeure, nMinute sont des entiers
+      nCentreX, nCentreY sont des entiers
+      nDiametreCercle est un entier
+      nAngleHeure, nAngleMinute sont des entiers
+      nX, nY sont des entiers
+      MonImage est une image
+      
+      // Récupère le décalage GMT
+      sDecalageGMT = gtaListeVillesGMT[gsVille]
+      // Calcule le décalage
+      hHeureActuelle = CalculeHeure(Maintenant(), "-0100")
+      hHeureActuelle = CalculeHeure(hHeureActuelle, sDecalageGMT)
+      // Récupère les heures et minutes
+      nHeure = hHeureActuelle..Heure
+      nMinute = hHeureActuelle..Minute
+      // L'heure doit être passée en format 12:00
+      SI nHeure > 12 ALORS nHeure -= 12
+      
+      // Calcule l'angle
+      nAngleHeure  = (nHeure + (nMinute / 60 ))* (360 / 12) - 90 
+      nAngleMinute = nMinute * (360 / 60) - 90
+      
+      // Début de dessin
+      dDébutDessin(MonImage)
+      // Dessin net
+      dChangeMode(dessinAntiAliasing)
+      MonImage..largeur = IMG_Dessin..largeur
+      MonImage..Hauteur = IMG_Dessin..Hauteur
+      
+      // Centre
+      nCentreX = MonImage..largeur/2
+      nCentreY = MonImage..hauteur/2
+      
+      // Dessine le cercle de décor
+      nDiametreCercle = Min(MonImage..Largeur, MonImage..Hauteur)
+      nDiametreCercle -= 6
+      dCercle(nCentreX - nDiametreCercle/2, nCentreY - nDiametreCercle/2, nCentreX + nDiametreCercle/2, nCentreY + nDiametreCercle/2, rvb(153,153,153))
+      nDiametreCercle -= 12 
+      dCercle(nCentreX - nDiametreCercle/2, nCentreY - nDiametreCercle/2, nCentreX + nDiametreCercle/2, nCentreY + nDiametreCercle/2, blanc)
+      
+      // Dessine l'aiguille des minutes
+      nDiametreCercle -= 10
+      // Calcule le point X,Y de la minute
+      nX = nCentreX + (Cosinus(nAngleMinute) * (nCentreX- (nDiametreCercle/4)))
+      nY = nCentreY + (sinus(nAngleMinute) * (nCentreY - (nDiametreCercle/4)))	
+      // Dessine l'aiguille des minutes
+      dLigne(nCentreX, nCentreY, nX, nY, rvb(71,133,186), 4)	
+      
+      // Dessine l'aiguille des heures
+      nDiametreCercle -= 10
+      // Calcule le point X,Y de l'heure
+      nX = nCentreX + (Cosinus(nAngleHeure) * (nCentreX - (nDiametreCercle/2)))
+      nY = nCentreY + (Sinus(nAngleHeure) * (nCentreY - (nDiametreCercle/2)))	
+      // Dessine l'aiguille des heures
+      dLigne(nCentreX, nCentreY, nX, nY, RVB(26,161,225), 4)	
+      
+      // Affiche le dessin
+      IMG_Dessin = MonImage
+     type : 458752
+   -
+     name : GMTAdd
+     procedure_id : 1337407336571930720
+     type_code : 14
+     code : |1-
+      // Résumé : Ajoute une ville
+      // Syntaxe :
+      //GMTAdd (<sVille> est chaîne, <sGMT> est chaîne)
+      //
+      // Paramètres :
+      //	sVille (chaîne ANSI) : Nom de la ville
+      //	sGMT (chaîne ANSI) : Décalage GMT
+      // Valeur de retour :
+      // 	Aucune
+      //
+      
+      Procédure PRIVEE GMTAdd(LOCAL sVille est une chaine, LOCAL sGMT est une chaine)
+      	
+      // Mémorise le décalage pour la ville
+      gtaListeVillesGMT[sVille] = sGMT
+     type : 458752
+   -
+     name : CalculeHeure
+     procedure_id : 1337408401723937394
+     type_code : 14
+     code : |1+
+      // Résumé : Calcule l'heure en fonction du décalage
+      // Syntaxe : 
+      //[ <Résultat> = ] CalculeHeure (<hHeure>, <sDécalageGMT>)
+      //
+      // Paramètres :
+      //	hHeure : Heure à décaler selon l'offset GMT
+      //	sDécalageGMT : Offset GMT
+      // Valeur de retour :
+      // 	heure : Heure décalée
+      
+      Procédure PRIVEE CalculeHeure(hHeure, sDécalageGMT)
+      
+      hHeureCalcul est une heure  = hHeure
+      sCodeGMT	 est une chaine = sDécalageGMT
+      
+      // Extrait le nombre d'heures de décalage
+      nNbHeures	 est un entier  = sCodeGMT[[2 a 3]]
+      
+      // Extrait le nombre de minutes de décalage
+      nNbMinutes   est un entier  = sCodeGMT[[4 a 5]]
+      
+      si sCodeGMT[[1]] = "+" alors
+      	// <GMT +HHMM>
+      	
+      	// Ajoute le nombre de minutes et d'heures du décalage GMT
+      	hHeureCalcul..minute += nNbMinutes
+      	hHeureCalcul..heure  += nNbHeures
+      	
+      sinon
+      	// <GMT -HHMM>
+      	
+      	// Soustrait le nombre de minutes et d'heures du décalage GMT
+      	hHeureCalcul..minute -= nNbMinutes
+      	hHeureCalcul..heure  -= nNbHeures
+      	
+      FIN
+      
+      // Renvoie la nouvelle heure
+      renvoyer hHeureCalcul
+      
+     type : 458752
+  procedure_templates : []
+  property_templates : []
+ code_parameters :
+  internal_properties : CAAAAAgAAACVGQgYbalU7DKC3oH4ItDrjtcTHXXV/EuH8q0IbhyQlw==
+  original_name : FI_SansNom1
+resources :
+ string_res :
+  identifier : 0x1fc7970018f5ebb5
+  internal_properties : CAAAAAgAAACm76HWfKGWp33VjXInA4cRlqArlgTTA862QGt72W2ld5Y=
+custom_note :
+ internal_properties : CAAAAAgAAAC68/W0/adbG0nFCRhrE42B5HRnbDzVHaz86sSQyxlBk7I=
+rad :
+ internal_properties : CAAAAAgAAABoAN7PLpwJW3EiA7WVZdCA5EwrCA1rvutcDHooMWKe

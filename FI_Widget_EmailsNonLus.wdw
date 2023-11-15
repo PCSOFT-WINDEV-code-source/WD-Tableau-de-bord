@@ -1,0 +1,132 @@
+#To edit and compare internal_properties, use WINDEV integrated tools.
+#Internal properties refer to the properties of controls in windows, reports, etc.
+info :
+ name : FI_Widget_EmailsNonLus
+ major_version : 28
+ minor_version : 0
+ type : 8
+ description : ""
+ subtype : 0
+window :
+ name : FI_Widget_EmailsNonLus
+ identifier : 0x228f82326f8292f4
+ internal_properties : CAAAAAgAAACVBqo3ftkr2KvHSVEp545Pp7U7JyecJ6Nb/85UCcPTalPXTUVn+fFkoAeXmRal0H8Wfuc+q4AHg+EyH7lhnPS4MiVn4zl0Ny2/kt7UTflN5RqF6Kc1r09sjsdCDwwB/2N5WCdnSNOD+rpzjX4xm5LSFAGnnxbgJrmnb35dSGT3nAxsc1ZgIXtuppte+bYvj0MiIA1Bwe+dJsC6ReC5jyflmMiPeieIQnhySqFJaMdixMNySKdFMHyDLvxmJPIXjQ9bf7iEt3eFrQPZzisn4schEWBwJ6pvTbT/0OxX0LQwpbWGYi6yjc8IK4KRJNkpnr5U6X1tQlLWTkHkFkAznjiTeiTiF4NkKBlgo/rcxko9nLiugc8RCgFCfeJU6vta8dkfFePUC1ALBx09SdWt/rz2qcSRGDOWfYDTAXJgwlkttR8CstQ3pzR+zIWzMwZeUPvlZI99Y2cbQtRDIkADnmf5jLPTJVLAiUkxrSwbH4e+JydMGkM0tp4irGstfP/HDFs5QmY49b9KJjb9VpE5knP1+EmeWtvZWS8pCaSiGkZmVg5p/Vsifv/RqRnHt07PP1v79v7YNli2Qmys8/ZadQaX5BkXwKwXsIaDMXT8og74DOHKaBYtDysvWqTlv6wC3Na8fUiOXTSxfubhxtv03u9liroWwWJp
+ properties :
+  width : 120
+  height : 120
+ controls :
+  -
+    name : FI_Widget_EmailsNonLus
+    identifier : 0x228f82326f8392f4
+    internal_properties : CAAAAAgAAAC+yhVHfnO/eUO9TFppVepBR5SkqZAmGa8wqTPswTMmj9LkF6ZMG+uRZLqtlkKFutMnAHEFlZGXXxSu4YwPH6xjI4NUNY00Qqr+7fBkJl2sk7kboDtUm/O1bClbSYNrkFzaXDummBjSOfdoLGgPbIe8mmyVRO2+BoRMbOyUbksyMRJqLpgff77orX/xLIHaV0W5WQ9wIl2qe1ac67uVIP0s2YT77vpAbtZQfzogOEe+iSE/d2zLGVa4jofn2wRSBXdLyzTnXbaExoAk3FcL6NmRefCt2TisWmVIrZPZFmo/Ch72jxOn8tdS8cPBdjZSJPmJzjmLDd1luPHJ6vd2tRYKZL0b58jeLIO/ncKJA7B89sfalZToMZmKWi79OBDrks+mxQU7mF/8YCG7HEN/FOb6uNt2c3lkOqBm0M7zhlG615kfC1gvTTmn4w3IFspnLKcrQZxTfB56LNw09tNCI4WR7U81uT1OEOqAZOcK+edIglSzuw==
+    properties :
+     width : 120
+     height : 120
+    controls :
+     -
+       name : LIB_Nb
+       identifier : 0x228f82326f8492f4
+       internal_properties : CAAAAAgAAAAJwhQoKAygLFeEovQtlm8NuoiTuhFHyuEBeaJ1SDqdYQdLD3OjrLhB59MFkp8xYvZzbEGJZEuU9K49mGk9hsUexgyWbRRtArXssNP3pnCym1plMo64KNIsi9CGVvOE5ODc+WlbPzbwniaFm65nGecdzevslnCNKUn1J8KV4QHlt70x7L8+IcBetA5QjyG4f17t6FTYVvuv6ylYFU+xXAwroz7FHALw7EKVjei2JBgmbXhnWlOam8Ykuef0usa5TqjkTZXr5WRC5QimNK227M8Fp2R3inv+fGJBPEuyZxogeP0r+aOdc+N5lhwrlh9krSoEFUid0XH6bUlJIWSSsyRIXOqkmqf4coRDF1uvauUG8u6LOtO/m5cC5OD8kWtyDszbQCnAfYy+uYuUPaTNH9BjtGE1yyZmICdcCVSZpEOQj0ADSLe6tXXItafKeA89YMhHdXL3w8BR4oyEcItEGkmef5sYiMZ9wdteFfPuyQzI4vwiDT9RtJ6pXlwwV+dfShwN
+       properties :
+        x : 16
+        y : 16
+        width : 88
+        height : 79
+       type : 3
+       code_elements :
+        type_code : 2
+        p_codes : []
+     -
+       name : LIB_EmailsNonLus
+       identifier : 0x228f82326f8592f4
+       internal_properties : CAAAAAgAAAA3xzlXRW0l5oG5dAx2FFQ5dofolNs7Pzp9WZRD4wm0ODKSnkmFjXYYv0ohpzOSXhQV+P1CYdi+zAS9Xw1jfc/k4fSm0zuXWOSFxjBOhlo3kjdGx5FNwUIFRBfY25VZBTyTYLC+OawItjHfGv/Lhf1hgFeF0W6qcMock3tUhnKzgNb/zGj4bpWiOHKrXnm01Rx194q18rrwJzPcJO5w6w2UGz6czm8vjDC4EfrxfYj4oo90YbRkKFQMKsijk4/wzHsR3D3C+QabIoCOGIiygyMLY4/ujXY+5ETk22xv7f4uAB3yIZGOlmaQ7z36Kfxj4wLDfHOThNdWsNxLAjTq/aHxS+6akH/6KS3zi/K5V6LBlfeGFmA7K7He9GvpI+6TZ3/uwK5GIQQwynWgZYwIkC+gWdn2Nt5/ZZRvNO3imUkn/v7d1bTjWlInp9fuk4jXblUrBNSbJMWrGCKmfJ7IctJZ9jVwL5cVLd/xFogdPhoQDhCS+Tdjd7/rwMRKMs4j7V6Ry5MdZkyacNZBFubTimqLOzpZOl0kmQK0aEffp7HTVjjxGJEKoU91Hw==
+       properties :
+        x : 6
+        y : 89
+        width : 108
+        height : 24
+       type : 3
+       code_elements :
+        type_code : 2
+        p_codes : []
+     -
+       name : BTN_Acces
+       identifier : 0x228f82326f8692f4
+       internal_properties : CAAAAAgAAAAaXP9TFhMAk0YBVUaRnuOQjRdfHU10EGqhfz8SDVRr1bEKyt0VIYaBdERoOFXjC29LSQ3e2dsA68F0JZNOoAXUqKNAtyicE+EulcoYF5tkGRb87FlDKHdIUd/Kijwy7UgsKe2JJSjE/9lXrQrnmCU5wwWL0zT9yPfRYhqbgUwB6ISFoSL7PHInro7IXD9ycW8jv6TpJYK1/zC7ChYOh/2ZBexNUbwn4ZKCsrd2sGuPQDqSfTVtIncjLXfTp9RgE/mndC7RsSKGUJq0EBSSXiUQRHugMuF/GtFbNj4zaEK1p9OLe7xz6O9YWOsuRzXWpqYLS7x0BnDaihTmsgkHxhF68E13VpJ9iIxmoAMbsrw4oLpQVUeWdgwhlRurFdl55S6KHesurb2Eq6/MAjT6XCMIB8dTnweAXTAE36IdfXuCFzE/mb1Ku41Anx3UBJwOhOOCgfLGBKQuMKZ5xht2XuXDbYlKiykTk9AWZqgRh6ewSC2vj/X8awoCkDP8WJ2eyUwThiDtRHHuCNVSchXQmBKLci7MSfwqBZIFTv/OQmi52HrGmOL1JY39JVGEGI6E9zgE3cUoxckJTrMGlzSHYgOe3rD/bvTWnWVhr/Gf9HgwHWXVFf4zRYQSbqlqgtlmiwRWVXM1qsxIGr/tL5V6dCvy0RG7VKn3lUC570lGbAMBLu5/AAi0Fh08EUupICLIBLf6X65Ahf95aOfy9W4fXju9M5lMiJ1iv/8jNqrOVzyrg1Jge6Z0eWi5tBNB6yivGml1sO/yrVKMwOc7XnbFKELTSP4BDVs3d3KbPFvQieL1dQfJJGxVtOFEkpQ9Y88ocxCGG7Jbbk7JkFZxUpUYLXdauYGEiqZw2/T8pIwQ55+AHml1jjciYSvZe7lENrCUnLiuNW2KEQE5kKXl9y9Sa249VmItsdsnplnn+djNPMH9B/o0xReUNH8=
+       properties :
+        x : 96
+        y : 2
+        width : 24
+        height : 24
+       type : 4
+       code_elements :
+        type_code : 4
+        p_codes :
+         -
+           internal_properties : CAAAAAgAAAAS3fZWd1YdCDfWS26uA0wb70CVKRhhlJbNcz/rgXOOywPIUE3hgUdHwoITMXF+/7jzgGuz10P/9v1KeBOFHk3BWkUYRfCkjSJrCxiOW54LI7BPckv7a/c9Jbc1tKoNyL/ME6FVrcdSaQLrAw==
+           code : |1-
+            Info("Accès aux emails non lus", "(option non disponible)")
+           type : 18
+         -
+           type : 161
+           enabled : false
+     -
+       name : IMG_RafraichissementDispo
+       identifier : 0x228fa074a6fe7807
+       internal_properties : CAAAAAgAAADX9thn5v1DiWg5P/yFAc844LMnrv41ensOiAUy1xiFOOg54cTw/41HGYIkTd7cPdP155PznkqePHSr53X1MqBpxf/QiuROgUwrugPmOvKg7vIYImQYCF9cw2zfU4Y4c9XrAO2bZ98cCqGunYUZrQmyWbjn0bprz9SbhfP7CnTqJ7MdDVEbuhf1JzLYwuVPhX/1JwZJExesLX1HRfr6Y6kruLMnp94VHIfksdCDvFFe365MNRFNS3uVEM6glnHtZ4tzPcGc6RHujxMY8fHuaOnjS5rEPv/f8sx6jXcRDtJbtkmIAh/Tj9M1OfB9X0MPuhOyuBuRXJHPmxjsPgM3cowantDhB9AKg8unt2ST2HS6LZToW+Lifu3x/OGaCu84U1XywdTGaMUZcIwXSbV3POHtmdMi/D94Mlw9DKqQPiNqg5mOFK4w6xOrqHEDN6MQj0dKvbLAonAeyai3GQ5MlGy+dpiN8XIjEZTlrm69c1LwQNGVm2aF2GoLTUlvPvov/KUDT+NEIAuVS7WMifRYQJz1wDmYAcUooJ07A73TlVjcydQQ59kk/X8BNEcmS5XrtIXyQ91EudDp0F3aQDNwapn3LjzHTVS8t4+CYf89R7QofcBeClrTv0VowLynMokXFI+lvq1/0dqKg71S4F8ZNWwmSkWx6VWipEDZsKA7uGAp8wftMoguDN3mNOSYATwQYgkg3GBCEdWeK5BW877PMFD8U9+MPxRgev1eON9nZX76G9bus1LAH/OwwqWJrsdVVd6uXtwluA985oSWaZ68ZLAxvNczDwknc0jrdrvrrTvUuAymYCTQ
+       properties :
+        x : 1
+        y : 1
+        width : 18
+        height : 18
+       type : 8
+       code_elements :
+        type_code : 8
+        p_codes :
+         -
+           type : 18
+           enabled : false
+    type : 32
+    code_elements :
+     type_code : 70
+     p_codes :
+      -
+        code : |1+
+         PROCEDURE MaFenêtre()
+      -
+        internal_properties : CAAAAAgAAAA+OfrEJ/plmENe884SV6x/ewABvTSlpO4Zo/fDle92T5eofDmtbTfP7pqbmXWC79Q3gG8/g51lZA/g0p0PkNOrWCNql3quYwDVubIQtTD5De4VRG3FrRXbd00f7uzfPlFCaXsP//nUXe4HLw==
+        code : |1+
+         // Affiche le nombre d'emails
+         LIB_nb = gnNbEmails
+        type : 14
+      -
+        internal_properties : CAAAAAgAAAA+OfrEJ/plmENe884SV6x/ewABvTSlpO4Zo/fDle92T5eofDmtbTfP7pqbmXWC79Q3gG8/g51lZA/g0p0PkNOrWCNql3quYwDVubIQtTD5De4VRG3FrRXbd00f7uzfPlFCaXsP//nUXe4HLw==
+        code : |1+
+         // Affiche le nombre d'emails
+         LIB_Nb = gnNbEmails
+        type : 198
+ menu :
+  name : _Menu
+  identifier : 0x228f80ee6db49fcf
+  internal_properties : CAAAAAgAAAD7S+2GOLjEeheq9Y6YZGIRPpLnwB8KUS2je4S4X5oxSGrv51WBBaVxxbk/BTEdUwW0fnnvlhQNIBAuQTAO0S9+S8FMTvDhqkS1JydqFJBfHlbZSFzBkZAjjJ5aIH/cuMnF4Pme57TAyYvjnlkzTJmN5UX9hu+BEl3AsIsso5gsz3oX/KHp1ai/xWZCb54MlUFXdWmT2EOpULKqea/LH9EOlTkaiWsV2aM2/FfXQjTSY3NhAR6zEzKHYKVJwiZULchG0D4LNvRbPifZJPDMmlF6ptz+Rg0QN6SXG5jU7HifIzmkonwDFnOJQw==
+  options : []
+ languages :
+  - fr-FR
+ popup_menus : []
+ message_bar : {}
+ actionbar : {}
+ code_elements :
+  internal_properties : CAAAAAgAAABA2wEueyODmVSm4SqZB/hZzy9jGpjcWdSTplIsPv7oXD4kekjE1yHdGKzUtg1UU4Dwdg2L0niQxTLT0F1jLZc=
+  type_code : 71
+  p_codes : []
+ code_parameters :
+  internal_properties : CAAAAAgAAACVGQgYbalU7DKC3oH4ItDrjtcTHXXV/EuH8q0IbhyQlw==
+  original_name : FI_SansNom1
+resources :
+ string_res :
+  identifier : 0x1fc7970018eceb96
+  internal_properties : CAAAAAgAAACm76HWfKGWp33VjXInA4cRlqArlgTTA862QGt72W2ld5Y=
+custom_note :
+ internal_properties : CAAAAAgAAAC68/W0/adbG0nFCRhrE42B5HRnbDzVHaz86sSQyxlBk7I=
+rad :
+ internal_properties : CAAAAAgAAABoAN7PLpwJW3EiA7WVZdCA5EwrCA1rvutcDHooMWKe

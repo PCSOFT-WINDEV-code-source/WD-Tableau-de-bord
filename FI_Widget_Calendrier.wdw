@@ -1,0 +1,143 @@
+#To edit and compare internal_properties, use WINDEV integrated tools.
+#Internal properties refer to the properties of controls in windows, reports, etc.
+info :
+ name : FI_Widget_Calendrier
+ major_version : 28
+ minor_version : 0
+ type : 8
+ description : ""
+ subtype : 0
+window :
+ name : FI_Widget_Calendrier
+ identifier : 0x228f648a48a26a5c
+ internal_properties : CAAAAAgAAACJm3iyEfnp0AEfx4MwgJAlA9UINOQN8Qzlu4MmG0QzASp8BU4HgUmv1aPqQ7BxIcEGQS3AG6GbU0VpM0hwuu7ZXYh20p+Dm/vF7vUVmvylB0flqYqqLVU1E9qdnJ1smeuwsSxGMmT8Ck0Wu+jTWmA2N/Mz5Q3TGHpHS5K7sJOkp2nGiArjuV/OzfTKy+nsWbFFm9whxcnvPGnwb60RH8appZsRcMKhp+bG+iKS2EZ2it60v6IblHykfvjaunq/A4T9bFAyDWRxTR+IZcZxpdz/WpzmOxXozXHgA1SA4xU7vDIJvH34y4hivziZ3TYmluuVbWrIJbLAidJ8NumYuPArCebyq8Lmf7gNTcmXv9YdfF+Gu2lcWux5YtQraVpOOeloaVn6COo4BMYxFIiKiPJwpropZMaG5C9EI2lfSSnJGTaUJB62CzftOcFw4HU2jhX2ti1billSVZX9PfdIiiOtBbv974/q+hIYdzeaHjVai6yeuOm7VvcPY1v6TfiJEDfgGpoYDnMxwa/TmWBKwnkHV3lUyHbtLlhIX8kPI+SWrol/0fO5zopo7lWO0tvP67dS3oA6tVg737vEIAndIwD4CdlXnPJlK90uWV+L1uI8v03VH6EyfL7U3h6o+pEKQyXmzvSj8SlvyTV9uVHgvLS4vHg=
+ properties :
+  width : 120
+  height : 120
+ controls :
+  -
+    name : FI_Widget_Calendrier
+    identifier : 0x228f648a48a36a5c
+    internal_properties : CAAAAAgAAACp2XpaYXC8fk6OWUd2QvdcSpOZqJ87HqQ/GiCRZlAraoXTPM0DXFwq76MGY+NmC3IWq8IAEE4cHNtTlpHMXDH2TlaLn+xnYpAYbdYANJPe12drjEuoCSNDMlUhNRFhEmAM6LvegILmN610SqDV8gU06AfzOkc6IHTMmrBevtP2W7boRMJlV4RwnYWxRik6N2ttn83mWGFEd3aSm13ZJDUibQoRkMR4DDpkccJqGGfa4xVNyUopLbig2iYU2PFXDnyG0gGIvhfjNyEDGbyoRXo+jPu+do0Bte4ReOwaDxvcMyH5iCiMx6o37lpuu2ufUa40eQKIcrLoDXLgxwQzyhsHsxCQdE1fY0holCN2MDHNR449ikmlctDDu3We5f2cc6y94NIgJfiTKZoOyfzwM9HlpRgr7gyZde2jHbtuOd4HIhJglC82dmA8RE7pNSko3Vao1hmWr9P1+SnBA85FIIaQ6kw6pEBDC+eNcfQF/ORVjUGgqA==
+    properties :
+     width : 120
+     height : 120
+    controls :
+     -
+       name : LIB_JourEnLettres
+       identifier : 0x228f64ad4901f6a3
+       internal_properties : CAAAAAgAAACs2+qlxfMzYWVoytnwmsl9ZVj9RCPo8tTMn/ja+q3Wd7SkDUMHJs9wDgpyti2rMN06igKMJQxp+fjc3NggvuJhpUmMx62ghzHzVfHHzB4Kod8wa6PULh+WZ8Tvs938/+8vX70wYEENfZZ0fJhkYsegCQNnvEOS+i1M1wND4fKvVjHzZpkLCD0loPwrrCri5qLPw6U/yLTtvXFEO1mH/Gr1/XopMK5OyzKFLk8D6FGpdPI+bfb7IzhWNRVUvv8nbDoKlCuwGrwX/BfxcSlJtKa7tc2ZRQqftnDYpKbMCKDGsJiNvMdTD5SYLbJogPVsA7ApqzQPHoI9l/CMv9Z69C/63PmBiqF2d9UoDVFrqsLL7If7Hq42aq9KwD/JVnuJDD1H20OlOQQfzl4mI9N473vuTN73GVx8tZjngjtjnM6Iq/PR65Tl6ZZgMMigDzCj7XjC4UtiXeGeeSxJ7ZlalwOAXht6u5esbTh2C8pQrdycaGKlrrTv9FQXbcub4CaOtkMAwCmew68Ch2dB7KQQOcUml+lgsbafSHbaENiIU9hka3zKm9oNkBc=
+       properties :
+        x : 5
+        y : 5
+        width : 111
+        height : 24
+       type : 3
+       code_elements :
+        type_code : 2
+        p_codes :
+         -
+           code : |1-
+            
+           type : 14
+     -
+       name : LIB_Mois
+       identifier : 0x228f6821504e72f4
+       internal_properties : CAAAAAgAAAB8of3LNBlc+H8r4gOA3HHQEUANE0AKwlkvr3vyJH8nB1eix6M2fzNHNmVrNJEGAv6z3SB9a9Zv7J+curtxbJc7L2vnlNu0dObqw4zz3qm/j8YvSGEx351JQY/UoQKT+Xj+tcvcvqY/NHdJP4JTm5uo3H1GVYY4eUoLe63JWLZ+3iMm+Es5Nt4usZf7eY03e0e/drXLZacceUALQYciu7kT48e4NMG+a4ZLOjPLMJl38ksef4eEYNVE8oAD/QCeRJVan4QoeRSwDWGID1W/vqh2kAkxp5L8dqrgIhsunSzb0So5GqjLL2JEPWlLe5d32jDTm63YGRqfT7UkIN5MqRukIZInprTQoX4AtP6HG532ItoxxhIn1Z+pt24Exw/oVx8y/Q2MrgPS9D/ATTUVYstg1c3CSnauCdpZugOEJduu7m+8xy61kjlzvCRdk88A05maPh2DQxzVTv16lfzPwdSmEOt1WxLQp/PeBLFftbPRnQegUvN/FehqKVgPh3GL1CuocV5gAEqMPkawfoq1spWnIpFlA3E84S++lg==
+       properties :
+        x : 5
+        y : 92
+        width : 111
+        height : 22
+       type : 3
+       code_elements :
+        type_code : 2
+        p_codes :
+         -
+           code : |1-
+            
+           type : 14
+     -
+       name : LIB_Jour
+       identifier : 0x228f6841505ceec7
+       internal_properties : CAAAAAgAAABUn4FUxajiTeCz5KuF25uZhltbEemBEB1Byyk5yPbaqtWrlQsCExxlu/uCHXyJuEkoSjbLf180bvixv9djDh2q1SJeW+eRcA94kRUxO3Vv8M8HvUC1Fd7FPZTijqsAEnCUg4hxrhpT7iqb54r2TuuInVjg0E70kzWZG4aQ0ap/l9ImmGjvPgKNJlclMvO7XhDyUZKj00aYkZ+bAdO7TJQWP8GGWx834TlHQCo8yhN26uE+j07LiqGfcsoxOHzTtPjRxp9c0bBLHY2IFykIjBph2hzuq60e8y0TteLULAp1fuBuZyLip7khxmiO2Yr/0pPNQNq4ugpuEANJ0/wXdaMDhY0/DwCTkQtt9IpYhPK6zjRRtiwvTtY+I2EEdTYzzuWJQpNtPmyyyTQwc34s/X2U1kAigsPg54ct6RgNpVt4QVCwfJHEq+ecLbVLn7UVNoMPonJlpRdRnGODly8EYyX5z8ymRSBQUdijFgZAiO3JAcUCco+hsytPBl5Z2h4WUTwgjnD2gRaCW8vTLW6kXrohGXu3
+       properties :
+        x : 5
+        y : 28
+        width : 111
+        height : 65
+       type : 3
+       code_elements :
+        type_code : 2
+        p_codes :
+         -
+           code : |1-
+            
+           type : 14
+    type : 32
+    code_elements :
+     type_code : 70
+     p_codes :
+      -
+        code : |1+
+         pROCEDURE MaFenêtre()
+      -
+        code : |1-
+         // Affiche la date
+         AfficheDate
+        type : 14
+      -
+        type : 198
+ menu :
+  name : _Menu
+  identifier : 0x228f60ed3aa14f7c
+  internal_properties : CAAAAAgAAAD7S+2GOLjEeheq9Y6YZGIRPpLnwB8KUS2je4S4X5oxSGrv51WBBaVxxbk/BTEdUwW0fnnvlhQNIBAuQTAO0S9+S8FMTvDhqkS1JydqFJBfHlbZSFzBkZAjjJ5aIH/cuMnF4Pme57TAyYvjnlkzTJmN5UX9hu+BEl3AsIsso5gsz3oX/KHp1ai/xWZCb54MlUFXdWmT2EOpULKqea/LH9EOlTkaiWsV2aM2/FfXQjTSY3NhAR6zEzKHYKVJwiZULchG0D4LNvRbPifZJPDMmlF6ptz+Rg0QN6SXG5jU7HifIzmkonwDFnOJQw==
+  options : []
+ languages :
+  - fr-FR
+ popup_menus : []
+ message_bar : {}
+ actionbar : {}
+ code_elements :
+  type_code : 71
+  p_codes : []
+  procedures :
+   -
+     name : AfficheDate
+     internal_properties : CAAAAAgAAAA4fd0q/fH29dh1Il++iH2lQUd74W8Xge/LvajzGBFfinf4oap2/HQs3tYsyqD7We26BG6Kkx9frI9sfntZ8MA5VoJBg4twZeKk/Te5d0EEWuDjp2EMIhIEcbQbKrjz0/120vK56E7AhMx1AEmm2xY7wMKVOPC0fHdRALolRg5T2nywsbY=
+     procedure_id : 1337402521913322646
+     type_code : 14
+     code : |1-
+      // Résumé : Affiche la date
+      // Syntaxe :
+      //AfficheDate ()
+      //
+      // Paramètres :
+      //	Aucun
+      // Valeur de retour :
+      // 	Aucune
+      //// Procédure automatique :
+      // La procédure est exécutée manuellement, lors d'un appel dans le code
+      // Elle sera répétée en boucle, en attendant 1 seconde entre chaque appel
+      // Chaque appel suivant exécute une seule fois la procédure, sans timer
+      // 
+      
+      PROCEDURE AfficheDate()
+      
+      LIB_JourEnLettres = DateVersJourEnLettre(datedujour)
+      LIB_Jour = Dateverschaine(DateDuJour(), "JJ")
+      LIB_Mois = DateVersMoisEnLettre(datedujour())
+     type : 458752
+  procedure_templates : []
+  property_templates : []
+ code_parameters :
+  internal_properties : CAAAAAgAAACVGQgYbalU7DKC3oH4ItDrjtcTHXXV/EuH8q0IbhyQlw==
+  original_name : FI_SansNom1
+resources :
+ string_res :
+  identifier : 0x1fc7970018f2ebb5
+  internal_properties : CAAAAAgAAACm76HWfKGWp33VjXInA4cRlqArlgTTA862QGt72W2ld5Y=
+custom_note :
+ internal_properties : CAAAAAgAAAC68/W0/adbG0nFCRhrE42B5HRnbDzVHaz86sSQyxlBk7I=
+rad :
+ internal_properties : CAAAAAgAAABoAN7PLpwJW3EiA7WVZdCA5EwrCA1rvutcDHooMWKe
